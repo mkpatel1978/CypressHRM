@@ -1,0 +1,15 @@
+{
+  "name": "cypresspoc",
+  "version": "1.0.0",
+  "description": "Cypress Automation POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.1.0",
+    "cypress-localstorage-commands": "^2.2.4"
+  }
+}
